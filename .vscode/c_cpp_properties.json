@@ -3,7 +3,8 @@
         {
             "name": "Linux",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "/opt/umic200/sysroot/usr/local/include/"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",
