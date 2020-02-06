@@ -1,4 +1,1 @@
-/Debug/
-/Release/
-.settings/
-.gdbinit
+/build/
