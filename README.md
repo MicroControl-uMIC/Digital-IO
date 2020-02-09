@@ -1,6 +1,6 @@
 # **Digital-IO** Example
 
-This example provides an example for access to the digital I/O peripherals. It switches
+This code provides an example for access to the digital I/O peripherals. It switches
 the relay as well as the digital outputs. Progress of the operation is printed to the
 console.
 
